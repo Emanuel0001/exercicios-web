@@ -1,0 +1,5 @@
+const filhas = ['Ualeskah','Cibalena']
+const filhos = ['Uoxiton', 'Uesclei']
+const todos = filhas.concat(filhos,'fulano')
+console.log(todos,filhas,filhos)
+console.log([].concat([1,2],[4,4],5 , [[6,7]]))
